@@ -1,1 +1,1 @@
-# Wholeness Application
+# Wholeness
